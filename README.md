@@ -4,7 +4,7 @@ This project implements an advanced NLP system for analyzing mechanical failure 
 
 ## Folder Structure
 
-- `data/` - Raw and processed data files (Excel, CSV, splits)
+- `data/` - Raw and processed data files (Excel, CSV, splits) (hidden)
 - `notebooks/` - Jupyter notebooks for exploration and reporting
 - `scripts/` - Python scripts for data processing, EDA, and pipeline steps
 - `models/` - Model checkpoints, configs, and logs
