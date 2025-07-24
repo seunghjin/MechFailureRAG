@@ -1,0 +1,11 @@
+transformers
+peft
+torch
+sentence-transformers
+faiss-cpu
+scikit-learn
+pandas
+numpy
+tqdm
+evaluate
+datasets 

@@ -1,0 +1,28 @@
+input,output
+Failure: all egg trays being transferred was identified as unknown. | Fault: EID (IDENTIFIER),"ask customer to
+1.check for cleanliness of eid found no debris and no debris halt.
+2.check for loose hardware normal.
+3.check egg eid trouble shooting page found normal power dbm value.
+3.clean the eid and wipe dry then adjust emitter enable didnt resolve.
+4.check tic module found normal led signal tried reset power cycled didnt resolve.
+5.tried re-installing software by first back up then took the software card off and put it back.
+6.following fsa0057 and tried egg transferring problem solved."
+Failure: wago remote io error | Fault: ELECTRICAL/PLC,change module 750-1405
+"Failure: el motor tiene un sonido anormal y se siente caliente.
+
+the engine has an abnormal sound and feels hot. | Fault: CONVEYOR","se soluciono el problema remplazando el motor se remplaza el motor por el sonido extrao 
+ y tambin por precaucin.
+
+the problem was solved by replacing the motor the motor was replaced because of the strange sound and also as a precaution."
+Failure: wago signals to festo valves was intermittent which caused that the cylinders went back out of time. | Fault: ELECTRICAL/PLC,revision de presiones de aire y correccin de fugas posterior a eso se revisa el funcionamiento y seales de electro vlvulas festo donde se detecta la intermitencia del encendido de las vlvulas de retraccin.
+Failure: tr call inject no fluid cleaning flow sensor fault. | Fault: CLEANING CART,replaced di water spartan valve and fluid in valve.
+Failure: sr mcr would not latch. | Fault: ELECTRICAL/WIRING,found bad wire on control module safety out cable.  replaced control module safety out female cable.
+Failure: broken haylos needs to be repaired | Fault: LIFT SYSTEM (HEAD),repaired all the broken haylos by replacing every wires. 
+Failure: cb9 jump in control electrical cabinet. we check mennekes plug and there a lot water inside. replace mennekes plug and problem was solve | Fault: ELECTRICAL/WIRING,"check eectrical power line
+replace plug with water inside
+"
+Failure: hmi not responsive to touch. theyve changed the usb cable and it worked for a moment but then turned not responsive again so theyre currently operating the hmi with a mouse. | Fault: HMI/SOFTWARE,"asked to turn off-on the device.
+asked to replace the usb cable.
+asked to connect a mouse to the hmi."
+Failure: les punchs de 13 injecteurs coulissent mal mouvement lent. la graisse des injecteurs est pteuse. | Fault: INJECTION HEAD/TOOLING,dmontage nettoyage remplacement des joints et graissage des injecteurs 
+Failure: tr cluster of tooling with no sanitation flow | Fault: SANITATION SYSTEM,replaced faulty check valves.  repaired toolings with sanitation blowback issues.

@@ -1,0 +1,5 @@
+WARNING:huggingface_hub.file_download:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+WARNING:huggingface_hub.file_download:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+INFO:root:Epoch 1 - Train loss: 40.36405025828969
+INFO:root:Epoch 2 - Train loss: 39.29323265769265
+INFO:root:Epoch 3 - Train loss: 37.780379035256125

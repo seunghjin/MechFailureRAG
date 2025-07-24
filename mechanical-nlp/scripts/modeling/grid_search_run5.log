@@ -1,0 +1,9 @@
+INFO:root:Run 5 - Epoch 1 - Train loss: 39.19036510378815
+INFO:root:Run 5 - Epoch 2 - Train loss: 29.47715564106786
+INFO:root:Run 5 - Epoch 3 - Train loss: 8.77577660804571
+INFO:root:Run 6 - Epoch 1 - Train loss: 38.057760283004406
+INFO:root:Run 6 - Epoch 2 - Train loss: 24.291995181593784
+INFO:root:Run 6 - Epoch 3 - Train loss: 5.097774394722872
+INFO:root:Run 7 - Epoch 1 - Train loss: 38.91333753009175
+INFO:root:Run 7 - Epoch 2 - Train loss: 29.778240070786588
+INFO:root:Run 7 - Epoch 3 - Train loss: 18.424601288728937
